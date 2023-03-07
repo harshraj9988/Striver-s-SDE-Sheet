@@ -1,5 +1,4 @@
 # https://leetcode.com/problems/set-matrix-zeroes/
-from functools import reduce
 from typing import List
 
 
