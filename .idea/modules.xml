@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../LeetCode-solutions/Leetcode-solutions-python/.idea/Leetcode-solutions-python.iml" filepath="$PROJECT_DIR$/../LeetCode-solutions/Leetcode-solutions-python/.idea/Leetcode-solutions-python.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Striver's SDE Sheet.iml" filepath="$PROJECT_DIR$/.idea/Striver's SDE Sheet.iml" />
     </modules>
   </component>
